@@ -13,7 +13,7 @@ docker-compose up
 
 Go to http://localhost:4242
 
-username: unleash
+username: admin
 password: unleash4all
 ```
 
